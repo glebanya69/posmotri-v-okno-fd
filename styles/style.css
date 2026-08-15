@@ -147,7 +147,7 @@ ol {
 }
 
 .search-form__checkbox {
-  appearance: none; 
+  appearance: none;
 }
 
 .search-form__checkbox-list {
@@ -185,7 +185,7 @@ ol {
   text-align: center;
   background: transparent;
   cursor: pointer;
-  appearance: none; 
+  appearance: none;
 }
 
 .button:focus {
@@ -290,7 +290,7 @@ ol {
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
-  max-width: 192px; 
+  max-width: 192px;
   padding-bottom: 6px;
   font-family: "Oswald", sans-serif;
   font-weight: 700;
@@ -306,10 +306,10 @@ ol {
 }
 
 .content__video-card-thumbnail {
- width: 194px;
- height: 103px;
- object-fit: cover;
- object-position: center;
+  width: 194px;
+  height: 103px;
+  object-fit: cover;
+  object-position: center;
 }
 
 .more-button {
